@@ -36,8 +36,6 @@ The code parses these patterns and builds internal `processes` and `request` lis
 
 - **Python 3.x** (no extra packages; uses only the standard library).
 - **Input file:** The program reads the process list from a **hardcoded path** in `main.py`:  
-  `C:/Users/Asus/OneDrive/Documents/folder_python/os_project/processes`  
-  Create a file named `processes` (no extension) in that directory with your test input, or change the path in `readfile()` to point to your own file (e.g. in the project folder).
 
 ---
 
